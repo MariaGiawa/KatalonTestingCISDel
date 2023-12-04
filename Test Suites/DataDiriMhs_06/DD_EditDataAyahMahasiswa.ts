@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DD_EditDataAyahMahasiswa</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b7d541b4-177e-4a9f-8709-9215104f4e6c</testSuiteGuid>
+   <testCaseLink>
+      <guid>5de44760-e4d0-4fe5-b628-a5eba1c977e2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDrive_DataPribadiMahasiswa_06/DD_EditDataAyahMahasiswa</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>80afd2eb-5772-4fcb-acc2-152bef43fb0c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataDiri_Mahasiswa/DataDiri_mhs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>80afd2eb-5772-4fcb-acc2-152bef43fb0c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>c696d420-0fd2-4ea3-a8ed-c9e921b54e46</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>80afd2eb-5772-4fcb-acc2-152bef43fb0c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>308d374c-2dab-45c3-9142-e59906a598c1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

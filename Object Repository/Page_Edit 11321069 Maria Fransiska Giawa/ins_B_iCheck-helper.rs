@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ins_B_iCheck-helper</name>
+   <tag></tag>
+   <elementGuidId>5606420b-5fd6-4d47-9485-e167e1de0935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dim-golongan_darah_id']/label[2]/div/ins</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.iradio_minimal-blue.hover > ins.iCheck-helper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ins</value>
+      <webElementGuid>b28336ec-735e-4aca-bb44-918cda9c0292</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iCheck-helper</value>
+      <webElementGuid>1d04403e-044f-45df-b3db-42b63508b991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dim-golongan_darah_id&quot;)/label[@class=&quot;radio-inline hover&quot;]/div[@class=&quot;iradio_minimal-blue hover&quot;]/ins[@class=&quot;iCheck-helper&quot;]</value>
+      <webElementGuid>870f80fc-442f-442c-9db7-ed4109c54f2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dim-golongan_darah_id']/label[2]/div/ins</value>
+      <webElementGuid>43851ef2-66fd-463e-b085-d1a23da39d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/label[2]/div/ins</value>
+      <webElementGuid>82780031-597c-499c-90b2-634ae850c10c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
